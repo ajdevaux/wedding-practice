@@ -10,8 +10,8 @@ description: |
 owner: Matt Menzenski # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: matt.menzenski@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "ajdevaux.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 google_analytics: UA-47395716-3
 
